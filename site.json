@@ -1,0 +1,10 @@
+{
+  "description": "Discover contemporary luxury fashion with a focus on Indian craftsmanship, offering timeless designs that elevate modern wardrobes for discerning style enthusiasts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
